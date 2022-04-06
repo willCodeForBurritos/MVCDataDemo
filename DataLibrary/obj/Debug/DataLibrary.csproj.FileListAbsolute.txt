@@ -1,0 +1,9 @@
+C:\Projects\MVCApp\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Projects\MVCApp\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Projects\MVCApp\DataLibrary\bin\Debug\Dapper.dll
+C:\Projects\MVCApp\DataLibrary\bin\Debug\Dapper.xml
+C:\Projects\MVCApp\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Projects\MVCApp\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\MVCApp\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Projects\MVCApp\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Projects\MVCApp\DataLibrary\obj\Debug\DataLibrary.pdb
